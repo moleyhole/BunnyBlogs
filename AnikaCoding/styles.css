@@ -9,8 +9,7 @@ body {
   margin: 2% 2%;
   padding: 2% 2%;
   float: left;
+  height: 90vh;
 }
 
-.right {
-    height: 100%;
-}
+
