@@ -60,12 +60,5 @@ typings/
 # next.js build output
 .next
 
-/00_Class_Demo_Dir
 /.vscode
-/javascriptPractice
-/Students_May_2019_Review-master
-/Students_May_2019_Review
-class notes.txt
-MongoNotes.js
-Untitled-1.pgsql
-package-lock.json
+node_modules
