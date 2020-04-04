@@ -1,0 +1,15 @@
+body {
+  background-color:skyblue;
+  font-family: 'Comic Neue', cursive;
+}
+
+.column {
+  background-color: ivory;
+  width: 40%;
+  margin: 2% 2%;
+  padding: 2% 2%;
+  float: left;
+  height: 1750px;
+}
+
+
