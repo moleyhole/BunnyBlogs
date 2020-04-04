@@ -5,7 +5,7 @@ const PORT = process.env.PORT | 3000
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-    res.send('Hi there')
+    res.status(200).send({"message": "hi"})
 })
 
 app.listen(PORT, () => {
