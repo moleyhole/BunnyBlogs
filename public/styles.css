@@ -9,7 +9,12 @@ body {
   margin: 2% 2%;
   padding: 2% 2%;
   float: left;
-  height: 1750px;
 }
 
+.right {
+    height: 100%;
+}
 
+nav{
+    background-color: ivory;
+}
